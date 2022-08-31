@@ -16,4 +16,4 @@ Additional Task: \
                 Github Link: \
                 https://github.com/rishabhshukla489/PersonalWebsite \
                 Webiste Link: \
-                https://rishabhshukla489.github.io/PersonalWebsite/ \
+                https://rishabhshukla489.github.io/PersonalWebsite/ 
