@@ -15,5 +15,5 @@ Additional Task: \
                 Level 1 Task2: \
                 Github Link: \
                 https://github.com/rishabhshukla489/PersonalWebsite \
-                Webiste Link: \
+                Website Link: \
                 https://rishabhshukla489.github.io/PersonalWebsite/ 
